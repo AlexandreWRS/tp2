@@ -5,6 +5,10 @@ J’ai toujours été fasciné par l’informatique et la mécaniques informatiq
 Les domaines qui m’attirent le plus sont le Web, la photo/vidéo. Car créer des sites web ,  des jeux , ou bien juste faire des photos/vidéos m’as toujours fasciné depuis toujours.
 ## Mon profil multimédia
 
+Je suis une personne qui est assez hybride , j’aime autant le créatif que la logistique.
+Faire des dessins ou bien coder ça m’est égal car j’aime tout. Ce n’est pas pour rien que j’ai décidé de faire cette technique au cégep.
+
+
 ## Mes forces
 - Je suis meilleur quand il s’agit d’imaginer et d’être créatif pour réussir à faire une histoire à partir de rien. ( avec des photos, des illustrations) 
 - Je suis quelqu’un qui aime pleins de choses donc je me mets à 100% dans tout ce que je fais car j’aime ça. 
