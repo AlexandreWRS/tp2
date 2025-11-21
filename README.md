@@ -44,7 +44,8 @@ En gros créer un studio d’animation 2D( c’est un gros but mais c’est ce q
 
 
 ## Moodboard
-<img width="1366" height="768" alt="moodboard" src="https://github.com/user-attachments/assets/851180f8-9032-4507-b447-6184d212be36" />
+!<img width="1366" height="768" alt="moodboard" src="https://github.com/user-attachments/assets/1f0d6da4-5948-4ac2-ab30-d6301cb67199" />
+
 
 ## Mind Map
 ## Flowchart
