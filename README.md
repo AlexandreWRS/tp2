@@ -48,4 +48,6 @@ En gros créer un studio d’animation 2D( c’est un gros but mais c’est ce q
 
 
 ## Mind Map
+!![diagrame_flux](https://github.com/user-attachments/assets/3a97910d-779d-401a-a513-9cd2bb7d1628)
+
 ## Flowchart
