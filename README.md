@@ -1,5 +1,5 @@
 # Présentation de mon profil par Alexandre Rivard-Septimus
-
+Novembre 2025 
 ## Pourquoi j’ai choisi le programme TIM 
 J’ai toujours été fasciné par l’informatique et la mécaniques informatique ( ingénieur… malheureusement je n’étais pas assez bon à l’école) et en grandissant j’ai développé une passion pour les histoires et l’art donc je me suis intéresse au jeux vidéo et autres.
 Les domaines qui m’attirent le plus sont le Web, la photo/vidéo. Car créer des sites web ,  des jeux , ou bien juste faire des photos/vidéos m’as toujours fasciné depuis toujours.
@@ -48,7 +48,7 @@ En gros créer un studio d’animation 2D( c’est un gros but mais c’est ce q
 
 
 ## Mind Map
-![diagrame_flux](https://github.com/user-attachments/assets/f4536bfb-0faf-486b-9f4b-d0a2a3e5e812)
-
+![mindmap](https://github.com/user-attachments/assets/d4354141-270e-45cc-a02c-2f174b513194)
 
 ## Flowchart
+![diagrame_flux](https://github.com/user-attachments/assets/f4536bfb-0faf-486b-9f4b-d0a2a3e5e812)
